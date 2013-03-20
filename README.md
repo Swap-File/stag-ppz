@@ -1,6 +1,10 @@
 stag-ppz
 ========
 
+This project was origionally hosted on TinyAppz back in 2006-2007 before they went down.
+
+It has been a long time since I looked at or touched the code, but I'm sure someone will still find it useful.
+
 This program was made in VB Express 2008 to interface with the Stag PPZ EPROM Programmer.
 If you do not have it already, you will need the .NET Framework to run this program.
 
