@@ -1,5 +1,5 @@
-StagPPZ
-=======
+stag-ppz
+========
 
 This program was made in VB Express 2008 to interface with the Stag PPZ EPROM Programmer.
 If you do not have it already, you will need the .NET Framework to run this program.
